@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "465234341294",
+    "project_id": "pushnotifications-cb74a",
+    "storage_bucket": "pushnotifications-cb74a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465234341294:android:742fc49dc5c00920ea2c3f",
+        "android_client_info": {
+          "package_name": "com.example.project_push"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwBQjOFB8fAigGNzW_vdDAR_K_-NVmut4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465234341294:android:701e1cea8e5c12d7ea2c3f",
+        "android_client_info": {
+          "package_name": "com.example.push_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwBQjOFB8fAigGNzW_vdDAR_K_-NVmut4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
